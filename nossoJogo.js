@@ -32,5 +32,5 @@ if (pontuaçãoUser > pontuaçãoComputer){
 }
 
 } else {
-   console.log(`O jogo acabou.`)
+   console.log(alert(`O jogo acabou.`))
 }
